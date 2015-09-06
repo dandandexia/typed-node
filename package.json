@@ -1,0 +1,29 @@
+{
+  "name": "typed-node",
+  "version": "1.0.0",
+  "description": "TypeScript typings for node globals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weswigham/typed-node.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "typed",
+    "module",
+    "definitely"
+  ],
+  "author": "weswigham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weswigham/typed-node/issues"
+  },
+  "homepage": "https://github.com/weswigham/typed-node#readme",
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}

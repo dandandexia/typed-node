@@ -1,0 +1,1 @@
+//No real JS - TS should never emit this
