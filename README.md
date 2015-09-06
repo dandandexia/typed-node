@@ -1,4 +1,4 @@
-typed-node
+typed-node [![Build Status](https://travis-ci.org/weswigham/typed-node.svg)](https://travis-ci.org/weswigham/typed-node)
 ============
 
 TypeScript typings for node globals
